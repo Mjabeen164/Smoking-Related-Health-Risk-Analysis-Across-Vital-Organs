@@ -36,13 +36,6 @@ Each record represents a simulated patient health profile suitable for analytica
 
 ---
 
-## 🛠️ Tools & Technologies
-- **SQL (MySQL)** – Data cleaning, aggregation, risk segmentation
-- **Power BI** – Interactive dashboards and visual storytelling
-- **Excel** – Initial data validation
-
----
-
 ## 🔍 Analytical Approach
 1. **Data Preparation**
    - Validated categorical values and missing data
@@ -92,11 +85,6 @@ Each record represents a simulated patient health profile suitable for analytica
 - `/PowerBI_Dashboard` – Interactive dashboard file
 - `/Dataset` – Source dataset used for analysis
 - `README.md` – Project documentation
-
----
-
-## 🚀 Why This Project Matters
-This project demonstrates how **healthcare domain knowledge combined with analytics** can translate raw patient data into meaningful, decision-ready insights — a critical skill for healthcare and life-science analytics roles.
 
 ---
 
